@@ -7,6 +7,7 @@ Hey there! I'm a Computer Science student with a passion for coding and creating
 I'm always excited to learn new things and take on new challenges. Here are some of the technologies I have used in my projects:
 
 ### Technologies & Tools
+---
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
