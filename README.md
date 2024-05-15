@@ -18,3 +18,4 @@ I'm always excited to learn new things and take on new challenges. Here are some
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![img icons8](https://github.com/negreacristian/negreacristian/assets/94742663/cafbc3ef-1fda-484f-aadb-84ca9d9da980)
