@@ -6,7 +6,7 @@ Hey there 👋! I'm a Computer Science student with a passion for coding and cre
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/cristian-negrea/" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" alt="https://www.linkedin.com/in/cristian-negrea/" width="50" /></a>
+<a href="https://www.linkedin.com/in/cristian-negrea/" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/cristian-negrea/" width="50px" /></a>
 </p>
 
 I'm always excited to learn new things and take on new challenges. Here are some of the technologies I have used in my projects:
