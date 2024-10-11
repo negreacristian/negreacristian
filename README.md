@@ -2,7 +2,7 @@
 
 <h3 align="center">Junior Software Engineer | Computer Science BSc Graduate at West University of Timisoara</h3>
 
-> Hey there 👋! I'm a Computer Science student with a passion for coding and creating cool projects. I've worked on a variety of projects, some of these projects I've built from scratch, while others involve using existing technologies to make something awesome.
+> Hey there 👋! I'm a Computer Science graduate with a passion for coding and creating cool projects. I've worked on a variety of projects, some of these projects I've built from scratch, while others involve using existing technologies to make something awesome.
 
 <h3 align="left">🔗 Initiate communication protocol with me: </h3>
 <p align="left">
