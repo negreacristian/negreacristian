@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/cristian-negrea/" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/cristian-negrea/" width="50px" /></a>
 <a href="https://leetcode.com/u/negreacristian/" target="blank"> <img align="center" src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" alt="https://leetcode.com/u/negreacristian/" width="50px" /></a>
 </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=negreacristian&label=Profile%20views&color=0e75b6&style=flat-square" alt="negreacristian" /> </p>
 I'm always excited to learn new things and take on new challenges. Here are some of the technologies I have used in my projects:
 
 ### Technologies & Tools
